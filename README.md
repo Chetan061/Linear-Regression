@@ -1,4 +1,4 @@
-# Linear-Regression car Price task
+# Linear-Regression car Price task.
 
 # Objective
  Identify the Which Platform have more impact on Price.
